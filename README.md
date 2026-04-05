@@ -1,63 +1,92 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= TERMINAL BANNER ================= -->
 
-<h1 align="center">⚡ Jitesh Gupta ⚡</h1>
+<h1 align="center">⚡ JITESH_GUPTA.exe ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Security+Engineer+in+Progress;Malware+Analyst;DevSecOps+Practitioner;Threat+Detection+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+System...;Loading+Threat+Modules...;Cybersecurity+Engineer;Malware+Analysis+Active;DevSecOps+Pipeline+Online" />
 </p>
 
 ---
 
-<!-- ================= CYBER BANNER ================= -->
+<!-- ================= SYSTEM STATUS ================= -->
+
+<h2 align="center">🔐 SYSTEM STATUS</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F7FF&height=120&section=header"/>
+🟢 Firewall: ACTIVE  
+🟢 Threat Detection: RUNNING  
+🟢 CI/CD Security: ENFORCED  
+🟢 Status: SECURE  
 </p>
 
 ---
 
-## 🧠 SYSTEM PROFILE
+<!-- ================= LIVE THREAT FEED ================= -->
 
-```yaml id="5nphrg"
-Name: Jitesh Gupta
-Role: Cybersecurity Student
-Focus:
-  - Malware Analysis
-  - DevSecOps Security
-  - Threat Detection Systems
-Rank: Top 1% TryHackMe
+<h2 align="center">🧠 LIVE THREAT FEED</h2>
+
+```bash id="tf1"
+[+] Scanning network traffic...
+[!] Suspicious domain detected → blocked
+[+] Malware sample analyzed → no persistence
+[!] API key exposure prevented (PipeGuard)
+[+] URL flagged as phishing (ThreatShield)
+[+] System secure...
 ```
 
 ---
 
-## 🚀 SECURITY PROJECTS
+<!-- ================= ATTACK SIMULATION ================= -->
 
-### 🔐 PipeGuard (CI/CD Security Engine)
+<h2 align="center">📊 ATTACK SIMULATION</h2>
 
-* Enforces secure commits using Gitleaks, Semgrep, Trivy
-* Risk scoring engine (0–100)
-* Blocks vulnerable code in pipelines
-
----
-
-### 🌐 ThreatShield (Browser Threat Detection)
-
-* DNS + SSL + WHOIS + URL analysis
-* Detects phishing & zero-day domains
-* Real-time trust scoring system
+```bash id="as1"
+SQL Injection Attempts: ███████░░ 78%
+Phishing Detection:    █████████░ 92%
+Malware Analysis:      ████████░░ 85%
+Pipeline Security:     ██████████ 100%
+```
 
 ---
 
-## 📡 LIVE SECURITY METRICS
+<!-- ================= IP TRACKER ================= -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitesh2005&show_icons=true&theme=transparent&title_color=00F7FF&text_color=00F7FF&icon_color=00F7FF" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Jitesh2005&theme=transparent&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="150"/>
-</p>
+<h2 align="center">🌍 NETWORK MONITOR</h2>
+
+```bash id="ip1"
+User IP: 192.168.x.x
+Location: Earth 🌍
+Access Level: Authorized User
+Session: Encrypted
+```
 
 ---
 
-## 🛠️ TOOLCHAIN
+<!-- ================= ABOUT ================= -->
+
+<h2 align="center">🧠 WHOAMI</h2>
+
+```bash id="who1"
+> Jitesh Gupta
+> Cybersecurity Enthusiast
+> Malware Analyst | DevSecOps Builder
+> Top 1% TryHackMe
+```
+
+---
+
+<!-- ================= PROJECTS ================= -->
+
+<h2 align="center">🚀 CORE SYSTEM MODULES</h2>
+
+🔐 **PipeGuard** → CI/CD Security Enforcement
+🌐 **ThreatShield** → URL Threat Detection Engine
+
+---
+
+<!-- ================= TECH ================= -->
+
+<h2 align="center">🛠️ TOOLCHAIN</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,linux,docker,git" />
@@ -65,19 +94,20 @@ Rank: Top 1% TryHackMe
 
 ---
 
-## 🧪 ACTIVE OPERATIONS
+<!-- ================= STATS ================= -->
 
-```bash id="vbl7zi"
-[ SCANNING... ]
-→ Reverse Engineering Malware  
-→ Android Exploitation  
-→ CI/CD Security Hardening  
-→ Threat Intelligence Research  
-```
+<h2 align="center">📡 SYSTEM METRICS</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitesh2005&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://streak-stats.demolab.com?user=Jitesh2005&theme=chartreuse-dark" />
+</p>
 
 ---
 
-## 🧬 CONTRIBUTION GRID
+<!-- ================= SNAKE ================= -->
+
+<h2 align="center">🐍 ACTIVITY TRACE</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -85,14 +115,16 @@ Rank: Top 1% TryHackMe
 
 ---
 
-## 🌐 SECURE CHANNELS
+<!-- ================= CONNECT ================= -->
+
+<h2 align="center">🌐 CONNECT</h2>
 
 <p align="center">
   <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:guptajitesh24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
 </p>
 
@@ -101,5 +133,5 @@ Rank: Top 1% TryHackMe
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0f2027&height=100&section=footer"/>
+⚡ "Security is not a feature, it's a mindset." ⚡
 </p>
