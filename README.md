@@ -1,90 +1,111 @@
-<!-- ================= TERMINAL BANNER ================= -->
+<!-- ================= GLITCH HEADER ================= -->
 
-<h1 align="center">⚡ JITESH_GUPTA.exe ⚡</h1>
+<h1 align="center">⚡ JITESH_GUPTA // ROOT_ACCESS ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+System...;Loading+Threat+Modules...;Cybersecurity+Engineer;Malware+Analysis+Active;DevSecOps+Pipeline+Online" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Booting+Cyber+System...;Accessing+Secure+Shell...;Malware+Analysis+Initialized;DevSecOps+Pipeline+Secured;Threat+Detection+Active;Welcome+to+My+Cyber+Domain" />
 </p>
 
 ---
 
-<!-- ================= SYSTEM STATUS ================= -->
+<!-- ================= TERMINAL INTRO ================= -->
 
-<h2 align="center">🔐 SYSTEM STATUS</h2>
+```bash
+> initializing_profile.sh
 
-<p align="center">
-🟢 Firewall: ACTIVE  
-🟢 Threat Detection: RUNNING  
-🟢 CI/CD Security: ENFORCED  
-🟢 Status: SECURE  
-</p>
+[✔] Loading user credentials...
+[✔] Establishing secure connection...
+[✔] Access Level: ROOT
+[✔] System Status: OPERATIONAL
+```
 
 ---
 
-<!-- ================= LIVE THREAT FEED ================= -->
+<!-- ================= SYSTEM DASHBOARD ================= -->
 
-<h2 align="center">🧠 LIVE THREAT FEED</h2>
+<h2 align="center">🔐 SYSTEM DASHBOARD</h2>
 
-```bash id="tf1"
-[+] Scanning network traffic...
-[!] Suspicious domain detected → blocked
-[+] Malware sample analyzed → no persistence
-[!] API key exposure prevented (PipeGuard)
-[+] URL flagged as phishing (ThreatShield)
+```bash
+Firewall            : ACTIVE 🟢
+Intrusion Detection : RUNNING 🟢
+Malware Engine      : ANALYZING 🟢
+CI/CD Security      : ENFORCED 🟢
+System Integrity    : VERIFIED 🟢
+```
+
+---
+
+<!-- ================= LIVE THREAT INTEL ================= -->
+
+<h2 align="center">🧠 LIVE THREAT INTELLIGENCE</h2>
+
+```bash
+[+] Monitoring network traffic...
+[+] Malware sample executed in sandbox
+[!] Suspicious API key → commit rejected (PipeGuard)
+[+] SSL anomaly detected → flagged (ThreatShield)
 [+] System secure...
 ```
 
 ---
 
-<!-- ================= ATTACK SIMULATION ================= -->
+<!-- ================= CYBER VISUAL ================= -->
 
-<h2 align="center">📊 ATTACK SIMULATION</h2>
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%">
+</p>
 
-```bash id="as1"
-SQL Injection Attempts: ███████░░ 78%
-Phishing Detection:    █████████░ 92%
-Malware Analysis:      ████████░░ 85%
-Pipeline Security:     ██████████ 100%
+---
+
+<!-- ================= ATTACK ANALYTICS ================= -->
+
+<h2 align="center">📊 ATTACK ANALYTICS</h2>
+
+```bash
+Phishing Detection    ██████████ 95%
+Malware Analysis      █████████░ 90%
+Web Exploitation      ████████░░ 82%
+CI/CD Security        ██████████ 100%
 ```
 
 ---
 
-<!-- ================= IP TRACKER ================= -->
+<!-- ================= NETWORK TRACE ================= -->
 
-<h2 align="center">🌍 NETWORK MONITOR</h2>
+<h2 align="center">🌍 NETWORK TRACE</h2>
 
-```bash id="ip1"
-User IP: 192.168.x.x
-Location: Earth 🌍
-Access Level: Authorized User
-Session: Encrypted
+```bash
+Target: github.com/Jitesh2005
+Status: Connected
+Encryption: AES-256 🔐
+Session: Secure Channel Established
 ```
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= WHOAMI ================= -->
 
 <h2 align="center">🧠 WHOAMI</h2>
 
-```bash id="who1"
+```bash
 > Jitesh Gupta
-> Cybersecurity Enthusiast
-> Malware Analyst | DevSecOps Builder
-> Top 1% TryHackMe
+> Cybersecurity Engineer (in progress)
+> Malware Analyst | DevSecOps Practitioner
+> Ranked Top 1% on TryHackMe
 ```
 
 ---
 
 <!-- ================= PROJECTS ================= -->
 
-<h2 align="center">🚀 CORE SYSTEM MODULES</h2>
+<h2 align="center">🚀 CORE EXPLOIT MODULES</h2>
 
-🔐 **PipeGuard** → CI/CD Security Enforcement
-🌐 **ThreatShield** → URL Threat Detection Engine
+🔐 **PipeGuard** → Blocks insecure code in CI/CD pipelines
+🌐 **ThreatShield** → Detects malicious URLs in real-time
 
 ---
 
-<!-- ================= TECH ================= -->
+<!-- ================= TECH STACK ================= -->
 
 <h2 align="center">🛠️ TOOLCHAIN</h2>
 
@@ -99,8 +120,8 @@ Session: Encrypted
 <h2 align="center">📡 SYSTEM METRICS</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitesh2005&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://streak-stats.demolab.com?user=Jitesh2005&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitesh2005&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jitesh2005&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -117,10 +138,10 @@ Session: Encrypted
 
 <!-- ================= CONNECT ================= -->
 
-<h2 align="center">🌐 CONNECT</h2>
+<h2 align="center">🌐 SECURE CHANNELS</h2>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/jitesh--gupta">
     <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:guptajitesh24@gmail.com">
@@ -133,5 +154,5 @@ Session: Encrypted
 <!-- ================= FOOTER ================= -->
 
 <p align="center">
-⚡ "Security is not a feature, it's a mindset." ⚡
+⚡ "Security is not a feature, it's a mindset." ⚡  
 </p>
