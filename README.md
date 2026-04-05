@@ -1,6 +1,6 @@
 <!-- ================= GLITCH HEADER ================= -->
 
-<h1 align="center">⚡ JITESH_GUPTA // ROOT_ACCESS ⚡</h1>
+<h1 align="center">⚡ JITESH_GUPTA ⚡</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Booting+Cyber+System...;Accessing+Secure+Shell...;Malware+Analysis+Initialized;DevSecOps+Pipeline+Secured;Threat+Detection+Active;Welcome+to+My+Cyber+Domain" />
@@ -52,7 +52,7 @@ System Integrity    : VERIFIED 🟢
 <!-- ================= CYBER VISUAL ================= -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="100%">
 </p>
 
 ---
